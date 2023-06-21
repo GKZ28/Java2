@@ -1,8 +1,8 @@
 public class Main {
     public static void main(String[] args){
-        int x = 13_676;
-        int y = x / 20;
+        int miles = 13_676;
+        int bonus = miles / 20;
         System.out.println("Количество бонусных миль:");
-        System.out.println(y);
+        System.out.println(bonus);
     }
 }
